@@ -2,8 +2,6 @@
 
 This is my personal resume website built with simple HTML and CSS.
 
-📄 **View my online resume here:**  
-➡️ [https://yourusername.github.io/resume-site](https://yourusername.github.io/resume-site)
 
 ## 💼 About Me
 
